@@ -8,3 +8,4 @@ Rencana Konten
 - Struktur Data Dasar
 - Membuat Video tentang JQuery
 - Membuat Video tentang Laravel
+  * CRUD dengan ELoquent
