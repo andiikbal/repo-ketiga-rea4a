@@ -1,0 +1,1 @@
+file ini bisa di add & di commit karena tidak ada di dalam .gitignore
