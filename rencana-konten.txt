@@ -1,0 +1,5 @@
+Rencana Konten
+
+- Membuat Video tentang Javascript
+- Membuat Vodeo tentang JQuery
+- Membuat Video tentang Laravel
