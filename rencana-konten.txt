@@ -1,0 +1,7 @@
+Rencana Konten
+
+- Membuat Video tentang Javascript
+  * ESQ 6
+  * Framework Javascript
+- Membuat Video tentang JQuery
+- Membuat Video tentang Laravel
